@@ -1,5 +1,8 @@
 # 💫 About Me:
-What I’m Working On:<br>- Django Ecosystem: Contributing to django-stubs to bridge the gap between Django’s dynamic runtime and static type-checking.<br><br>- Database Management: Building and optimizing systems using PostgreSQL, with a focus on privilege management and complex data structures.<br><br>- AI/ML Integration: Exploring the intersection of LLMs and web frameworks using LangChain, PyTorch, and Google Gemini.<br><br>- Software Quality: Writing comprehensive test suites using Pytest and MagicMock to ensure code reliability.
+I am a software developer with a deep interest in building robust backend systems and contributing to the global Python ecosystem.
+- Database Management: Building and optimizing systems using PostgreSQL, with a focus on privilege management and complex data structures.
+- AI/ML Integration: Exploring the intersection of LLMs and web frameworks using LangChain, PyTorch, and Google Gemini.
+- Software Quality: Writing comprehensive test suites using Pytest and MagicMock to ensure code reliability.
 
 
 ## 🌐 Socials:
